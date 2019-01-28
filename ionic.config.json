@@ -1,5 +1,6 @@
 {
   "name": "myApp",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "id": "ab26f7e7"
 }
